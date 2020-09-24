@@ -1,0 +1,12 @@
+{
+  "name": "gestionperceptorat",
+  "version": "1.0.0",
+  "description": "gestion de la perceptorat",
+  "main": "app.js",
+  "repository": "https://github.com/Delord-Nzanzu/gestionPerceptorat.git",
+  "author": "Delord",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
